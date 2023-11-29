@@ -1,0 +1,9 @@
+git init 
+git add
+git commit
+git rm --cached
+  git status
+git config --global user.name "username"
+  git log
+git diff
+git log --oneline --pretty
